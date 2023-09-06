@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}
+
+\bibitem{song2018eeg}
+Tengfei Song, Wenming Zheng, Peng Song, and Zhen Cui.
+\newblock Eeg emotion recognition using dynamical graph convolutional neural
+  networks.
+\newblock {\em IEEE Transactions on Affective Computing}, 11(3):532--541, 2018.
+
+\bibitem{zheng2015investigating}
+Wei-Long Zheng and Bao-Liang Lu.
+\newblock Investigating critical frequency bands and channels for eeg-based
+  emotion recognition with deep neural networks.
+\newblock {\em IEEE Transactions on autonomous mental development},
+  7(3):162--175, 2015.
+
+\end{thebibliography}
